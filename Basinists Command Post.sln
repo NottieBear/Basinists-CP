@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website\", "{8B1AC4BC-8A1B-4208-B012-F7187E8A2D22}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64862"
+		Debug.AspNetCompiler.PhysicalPath = "Website\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64862\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64862"
+		Release.AspNetCompiler.PhysicalPath = "Website\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64862\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64862"
+		SlnRelativePath = "Website\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GAS - Dev", "GAS - Dev", "{F32013B3-4291-4659-AC10-EAC742CD52AE}"
+	ProjectSection(SolutionItems) = preProject
+		GAS - Dev\src\ConstValue.js = GAS - Dev\src\ConstValue.js
+		GAS - Dev\src\ConstValueDB.js = GAS - Dev\src\ConstValueDB.js
+		GAS - Dev\src\DBOperationGuildFund.js = GAS - Dev\src\DBOperationGuildFund.js
+		GAS - Dev\src\DBOperationGuildLog.js = GAS - Dev\src\DBOperationGuildLog.js
+		GAS - Dev\src\DBOperationGuildMember.js = GAS - Dev\src\DBOperationGuildMember.js
+		GAS - Dev\src\DBOperationGuildRank.js = GAS - Dev\src\DBOperationGuildRank.js
+		GAS - Dev\src\DBOperationMemberOnline.js = GAS - Dev\src\DBOperationMemberOnline.js
+		GAS - Dev\src\DBOperationMisc.js = GAS - Dev\src\DBOperationMisc.js
+		GAS - Dev\src\DBOperationOctovineSquad.js = GAS - Dev\src\DBOperationOctovineSquad.js
+		GAS - Dev\src\GuildDonation.js = GAS - Dev\src\GuildDonation.js
+		GAS - Dev\src\GuildFund.js = GAS - Dev\src\GuildFund.js
+		GAS - Dev\src\GuildRoster.js = GAS - Dev\src\GuildRoster.js
+		GAS - Dev\src\GW2FetchData.js = GAS - Dev\src\GW2FetchData.js
+		GAS - Dev\src\Main.js = GAS - Dev\src\Main.js
+		GAS - Dev\src\MemberOnline.js = GAS - Dev\src\MemberOnline.js
+		GAS - Dev\src\OctovineSquad.js = GAS - Dev\src\OctovineSquad.js
+		GAS - Dev\src\OctovineSquadLeaderboard.js = GAS - Dev\src\OctovineSquadLeaderboard.js
+		GAS - Dev\src\TriggerUpdateGuildFund.js = GAS - Dev\src\TriggerUpdateGuildFund.js
+		GAS - Dev\src\TriggerUpdateGuildLog.js = GAS - Dev\src\TriggerUpdateGuildLog.js
+		GAS - Dev\src\TriggerUpdateGuildRankAndMember.js = GAS - Dev\src\TriggerUpdateGuildRankAndMember.js
+		GAS - Dev\src\UrlActionMapping.js = GAS - Dev\src\UrlActionMapping.js
+		GAS - Dev\src\UserAccount.js = GAS - Dev\src\UserAccount.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1AC4BC-8A1B-4208-B012-F7187E8A2D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1AC4BC-8A1B-4208-B012-F7187E8A2D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

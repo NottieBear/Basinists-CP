@@ -1,0 +1,85 @@
+﻿.topbar-logo {
+  background: url('https://guilds.gw2w2w.com/guilds/auric-basinists/58.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-personal-info-icon {
+  background: url(../images/icon/personal_info_32.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-dashboard-icon {
+  background: url(../images/icon/dashboard_32.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-octovine-squad-icon {
+  background: url('../images/icon/octovine_squad_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-commander-form-icon {
+  background: url('../images/icon/commander_form_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-edit-record-icon {
+  background: url('../images/icon/edit_record_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-squad-history-icon {
+  background: url('../images/icon/squad_history_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-squad-activity-icon {
+  background: url('../images/icon/squad_activity_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-guild-activity-icon {
+  background: url('../images/icon/guild_activity_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-guild-roster-icon {
+  background: url('../images/icon/guild_roster_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-guild-donation-icon {
+  background: url('../images/icon/guild_donation_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.navbar-guild-donor-icon {
+  background: url('../images/icon/guild_donor_32.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.delete-icon {
+  background: url('../images/icon/delete_24.png');
+}
+
+.key-icon {
+  background: url('../images/icon/key_24.png');
+}
+
+.remove-icon {
+  background: url('../images/icon/reomve_16.png');
+}
+
+

@@ -1,0 +1,53 @@
+﻿.x-treelist-navbar, .x-treelist-navbar .x-treelist-toolstrip {
+  background-color: #32404E;
+}
+
+.x-treelist-navbar .x-treelist-row {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.x-treelist-navbar .x-treelist-item-expanded {
+  background-color: #2C3845;
+}
+
+.x-treelist-navbar .x-treelist-item-icon {
+  width: 64px;
+  height: 64px;
+}
+
+.x-treelist-navbar .x-treelist-item-text {
+  color: #ADB3B8;
+  margin-left: 70px;
+  margin-right: 24px;
+  font-size: 15px;
+  line-height: 64px;
+}
+
+.x-treelist-navbar .x-treelist-item-expander {
+  color: white;
+  font-size: 16px;
+  line-height: 64px;
+}
+
+.x-treelist-navbar .x-treelist-item-selected > .x-treelist-row {
+  background-color: #475360;    
+}
+
+.x-treelist-navbar .x-treelist-row-over {
+    background-color: #3C4A57;
+}
+
+.x-treelist-navbar .x-treelist-item-selected > .x-treelist-row:before {
+  background-color: #04FF00;
+}
+
+.x-treelist-navbar .x-treelist-row-over:before, .x-treelist-navbar .x-treelist-item-selected > .x-treelist-row:before {
+  content: " ";
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 5px;
+  height: 100%;
+}

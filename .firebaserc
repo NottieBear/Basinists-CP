@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "auricbasinists-cp-dev",
+    "live": "auricbasinists-cp",
+    "dev": "auricbasinists-cp-dev"
+  }
+}

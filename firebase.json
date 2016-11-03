@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "Website",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "ignore": [
+      "Web.config"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+﻿.content-under-construction {
+  background-image: url(../images/under_construction.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.content-navbar-container {
+  background-color: #32404E;
+  border-radius: 6px;
+}
+
+.content-center-container {
+  border-radius: 6px;
+}
+
+.content-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.content-navigator-button {
+  background-color: #F6F6F6;
+  border-color: #E4E4E4;
+}
+
+.content-navigator-button-over {
+  background-color: #ECECEC;
+  border-color: #DBDBDB;
+}
+
+.content-navigator-icon {
+  color: #606060;
+}
+
+.content-leaderboard-panel {
+  border-style: outset;
+  border-color: #EAECEE;
+  border-width: 1px;
+}

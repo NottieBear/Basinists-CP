@@ -1,0 +1,12 @@
+﻿.content-grid-view .x-grid-td {
+  vertical-align: middle;
+}
+
+.content-grid-view .x-action-col-icon  {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.content-grid-header-bold {
+  font-weight: 800;
+}

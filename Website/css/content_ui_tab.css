@@ -1,0 +1,26 @@
+﻿.x-tab-bar-content {
+  background-color: #32404E;
+}
+
+.x-tab.x-tab-active.x-tab-content {
+  border-color: #fff;
+  background-color: #475360;
+}
+
+.x-tab-content-top {
+  padding: 12px 24px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #32404E;
+}
+
+.x-tab.x-tab-active.x-tab-content .x-tab-inner-content {
+  color: #fff;
+}
+
+.x-tab-inner-content {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 19px;
+  color: #ADB3B8;
+}
